@@ -1,4 +1,4 @@
-# CSV Search Engine
+# n8n Search Engine
 
 A semantic search engine for CSV data using sentence transformers and FAISS for fast similarity search.
 
