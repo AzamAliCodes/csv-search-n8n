@@ -76,7 +76,7 @@ def main():
         layout="wide"
     )
     
-    st.title("🔍 CSV Search Engine")
+    st.title("🔍 n8n Search Engine")
     st.markdown("Search through your workflow data using semantic similarity")
     
     # Load search engine
