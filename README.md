@@ -2,7 +2,7 @@
 
 A semantic search engine for CSV data using sentence transformers and FAISS for fast similarity search.
 
-## 🚀 Features
+## 🚀 Features..
 
 - **Semantic Search**: Uses sentence transformers to understand the meaning behind your queries
 - **Fast Search**: FAISS indexing for lightning-fast similarity search
@@ -78,7 +78,7 @@ python build_index.py
 ```
 
 This will:
-- Load your CSV data
+- Load CSV data
 - Generate semantic embeddings for all descriptions
 - Build a FAISS index for fast searching
 - Save everything to the `embeddings/` folder
